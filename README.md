@@ -23,6 +23,10 @@ add CVE-2021-22005-vmcenter-upload-toRCE.yml
 
 add CVE-2021-21972-vmcenter-RCE.yml
 
+2022.4.12
+
+add CVE-2022-22954-VMware-RCE.yml
+
 ![image](https://user-images.githubusercontent.com/75511051/162608378-f4abbb55-0271-4fe1-9296-f3e83f07555a.png)
 
 会持续更新!!!
