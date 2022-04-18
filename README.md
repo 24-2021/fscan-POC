@@ -29,6 +29,10 @@ add CVE-2021-21972-vmcenter-RCE.yml
 
 add CVE-2022-22954-VMware-RCE.yml
 
+2022.4.18
+
+del CVE-2022-22965-spring4shell-RCE.yml
+
 ![image](https://user-images.githubusercontent.com/75511051/162608378-f4abbb55-0271-4fe1-9296-f3e83f07555a.png)
 
 会持续更新!!!
