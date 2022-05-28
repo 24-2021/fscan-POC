@@ -35,6 +35,11 @@ add CVE-2022-22963-Spring-SpEL-RCE.yml
 
 add CVE-2017-7504-Jboss-serialization-RCE.yml
 
+2022.05.28
+
+修复了一些问题
+
+感谢Whale3070师傅指出错误，并且给出修改建议
 
 ![image](https://user-images.githubusercontent.com/75511051/162608378-f4abbb55-0271-4fe1-9296-f3e83f07555a.png)
 
